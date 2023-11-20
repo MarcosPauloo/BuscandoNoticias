@@ -6,4 +6,4 @@ This project was done through a live broadcast on the Eduardo Mendes channel, in
 
 The project was not finished, only reaching 1 hour and 20 minutes of the live.
 
-- Live de Python #78 - Raspando a web com Scrapy - Com Renne Rocha ([https://github.com/marcospauloo](https://www.youtube.com/watch?v=5LMG4OCoEn0&ab_channel=EduardoMendes)https://www.youtube.com/watch?v=5LMG4OCoEn0&ab_channel=EduardoMendes)
+- Live de Python #78 - Raspando a web com Scrapy - Com Renne Rocha (https://www.youtube.com/watch?v=5LMG4OCoEn0&ab_channel=EduardoMendes)https://www.youtube.com/watch?v=5LMG4OCoEn0&ab_channel=EduardoMendes)
